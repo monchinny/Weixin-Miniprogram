@@ -1,0 +1,90 @@
+<view class="div1st" style="display: flex; flex-direction: row;">
+  <view class="inputandicon" style="display: flex; flex-direction: row;">
+    <view class="inputarea">
+      <input class="nav-input" type="text" value="搜索：目的地/酒店/航班号"/>
+    </view>
+    <view class="iconandword" style="display: flex; flex-direction: column;">
+      <view class="icon">
+        <image src="../cutting/myicon.png"/>
+        <view class="myiconword">我  的</view>
+      </view>
+    </view>
+  </view>
+</view>
+<view class="div2nd">
+  <image src="../cutting/14.gif" />
+</view>
+<view class="div3rd" style="flex-direction: row;" >
+  <image class="div3rdimg1st" src="../cutting/13.gif" />
+  <image class="div3rdimg2nd" src="../cutting/12.gif" />
+  <image class="div3rdimg3rd" src="../cutting/11.gif" />
+  <image class="div3rdimg4th" src="../cutting/10.gif" />
+  <image class="div3rdimg5th" src="../cutting/9.gif" />
+</view>
+<view class="div4th">
+  <view class="reddiv" style="display: flex; flex-direction: row;">
+    <view class="MainOverseaHotel1st" style="display: flex; flex-direction: column;">
+      <view class="div4thReddivSmallUpperTable">海外酒店</view>
+      <image class="HotelImg1st" src="../images/hotel.png" />
+    </view>
+    <view class="ReddivMiddleTable" style="display: flex; flex-direction: column;">
+      <view class="ReddivSmallUpperTable">海外酒店</view>
+      <view class="ReddivSmallLowerTable">特价酒店</view>
+    </view>
+    <view class="ReddivLastTable" style="display: flex; flex-direction: column;">
+      <view class="ReddivSmallUpperTable">海外酒店</view>
+      <view class="ReddivSmallLowerTable">特价酒店</view>
+    </view>
+  </view>
+  <!-- ------------------------ -->
+  <view class="bluediv" style="display: flex; flex-direction: row;">
+    <view class="MainOverseaHotel2nd" style="display: flex; flex-direction: column;">
+      <view class="div4thBluedivSmallUpperTable">海外酒店</view>
+      <image class="HotelImg2nd" src="../images/hotel.png" />
+    </view>
+    <view class="BluedivMiddleTable" style="display: flex; flex-direction: column;">
+      <view class="BluedivSmallUpperTable">海外酒店</view>
+      <view class="BluedivSmallLowerTable">特价酒店</view>
+    </view>
+    <view class="BluedivLastTable" style="display: flex; flex-direction: column;">
+      <view class="BluedivSmallUpperTable">海外酒店</view>
+      <view class="BluedivSmallLowerTable">特价酒店</view>
+    </view>
+  </view>
+  <!-- ------------------------ -->
+  <view class="greendiv" style="display: flex; flex-direction: row;">
+    <view class="MainOverseaHotel3rd" style="display: flex; flex-direction: column;">
+      <view class="div4thGreendivSmallUpperTable">海外酒店</view>
+      <image class="HotelImg3rd" src="../images/hotel.png" />
+    </view>
+    <view class="GreendivMiddleTable" style="display: flex; flex-direction: column;">
+      <view class="GreendivSmallUpperTable">海外酒店</view>
+      <view class="GreendivSmallLowerTable">特价酒店</view>
+    </view>
+    <view class="GreendivLastTable" style="display: flex; flex-direction: column;">
+      <view class="GreendivSmallUpperTable">海外酒店</view>
+      <view class="GreendivSmallLowerTable">特价酒店</view>
+    </view>
+  </view>
+
+</view>
+<view class="div5th">
+  <image class="TelephoneFee" src="../cutting/8.gif" />
+</view>
+<view class="div6th">
+  <image class="HotAbility" src="../cutting/7.gif" />
+</view>
+<view class="div7th" style="display: flex; flex-direction: column;">
+  <view class="List1st" style="display: flex; flex-direction:row;">
+    <view><image class="List1stLeftImg" src="../cutting/6.gif"/></view>
+    <view><image class="List1stRightImg" src="../cutting/5.gif"/></view>
+  </view>
+  <view class="List2nd"  style="display: flex; flex-direction:row;">
+    <view>22</view>
+    <view>22</view>
+  </view>
+  <view class="List3rd"  style="display: flex; flex-direction:row;">
+    <view>33</view>
+    <view>33</view>
+  </view>
+</view>
